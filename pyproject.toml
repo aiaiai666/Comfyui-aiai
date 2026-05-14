@@ -20,7 +20,7 @@ license = {file = "LICENSE"}
 #     "Environment :: GPU :: Apple Metal",    # Apple Metal support
 # ]
 
-dependencies = ["aiohttp", "aiohttp-cors", "GitPython", "numpy", "Pillow", "requests", "torch", "GitPython", "matrix-client", "transformers", "huggingface-hub", "psutil", "nest_asyncio", "openai"]
+dependencies = ["aiohttp", "numpy", "Pillow", "requests", "openai", "opencv-python"]
 
 [project.urls]
 Repository = "https://github.com/aiaiai666/Comfyui-aiai"
